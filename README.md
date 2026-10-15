@@ -45,7 +45,9 @@ Tecnologias com as quais estudo, pratico ou desenvolvo projetos:
 ---
 
 ## 📌 Projetos & Aprendizado
-
+<p align="center">
+  <img src="images/lineG.gif" width="100%" height="40" />
+</p>
 Utilizo este espaço para compartilhar projetos, experimentar tecnologias e documentar minha evolução como desenvolvedor.
 
 Aqui você encontrará aplicações, experimentos e projetos desenvolvidos durante meus estudos, sempre buscando melhorar a qualidade do código e ampliar meus conhecimentos.
