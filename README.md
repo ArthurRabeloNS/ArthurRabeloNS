@@ -85,6 +85,9 @@ Gosto de conhecer pessoas, trocar ideias e conversar sobre tecnologia, projetos 
 </p>
 
 ---
+<p align="center">
+  <img src="images/medieval.jpg" alt="Space" width="200" height="200" />
+</p>
 
 <p align="center">
   💡 <i>Estudando hoje, construindo o amanhã.</i>
