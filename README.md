@@ -29,8 +29,9 @@ Tecnologias com as quais estudo, pratico ou desenvolvo projetos:
   <img src="https://skillicons.dev/icons?i=html,css,js,cs,python,nodejs,mysql,git,github,vscode,androidstudio,kotlin" />
 </p>
 <p align="center">
-  <img src="images/spaceG.gif" alt="Space" width="1000" height="50" />
+  <img src="images/spaceG.gif" width="100%" height="30" />
 </p>
+
 
 **Desenvolvimento Web:** HTML5, CSS3 e JavaScript.
 
