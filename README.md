@@ -4,6 +4,10 @@
 
 Este é um espaço para compartilhar um pouco sobre mim, minha jornada na Ciência da Computação, meus interesses e os projetos que desenvolvo na área de tecnologia. Fique à vontade para explorar! 💻🚀
 
+<p align="center">
+  <img src="images/medieval.jpg" alt="Medieval Banner" width="250" />
+</p>
+
 
 ## 🚀 Sobre Mim
 
