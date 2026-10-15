@@ -1,7 +1,8 @@
 # Olá, eu sou o Arthur Rabelo! 👋
 
 <div align="center">
-  <img src="https://demolab.com" alt="Typing SVG" />
+  <img src="<img width="1140" height="641" alt="image" src="https://github.com/user-attachments/assets/8e8d5e0d-fe17-45e7-bb7b-68a0f0b0344e" />
+" alt="Typing SVG" />
 </div>
 
 ---
