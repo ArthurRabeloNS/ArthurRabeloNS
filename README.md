@@ -1,8 +1,8 @@
-# Olá, eu sou o Arthur Rabelo! 
+# Olá, eu sou o Arthur Rabelo! 👋
 
 <p align="center">
-  <!-- Sua imagem hospedada no próprio GitHub carregando perfeitamente -->
-  <img src="space.jpg" alt="Space" width="100%" />
+  <!-- Banner mitológico/medieval vindo direto da sua nova pasta -->
+  <img src="images/medieval.jpg" alt="Banner Medieval Mitológico" width="100%" />
 </p>
 
 ---
