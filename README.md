@@ -1,9 +1,9 @@
 # Olá, eu sou o Arthur Rabelo! 👋
 
-<div align="center">
-  <img src="<img width="1140" height="641" alt="image" src="https://github.com/user-attachments/assets/8e8d5e0d-fe17-45e7-bb7b-68a0f0b0344e" />
-" alt="Typing SVG" />
-</div>
+<p align="center">
+  <!-- Sua imagem hospedada no próprio GitHub carregando perfeitamente -->
+  <img src="space.jpg" alt="Space" width="100%" />
+</p>
 
 ---
 
@@ -14,26 +14,17 @@ Tenho 19 anos, sou extremamente **adaptável** e movido a adrenalina. Adoro reso
 - 🎓 Cursando **Ciência da Computação** na **UniFECAF**.
 - 🎯 **Objetivo:** Desenvolver soluções eficientes, ingressar no mercado corporativo e alcançar estabilidade financeira para apoiar quem mais importa: minha família e eu.
 - ⚡ **Áreas de Interesse:** Desenvolvimento Full-Stack, Cyber Security, Banco de Dados e Suporte Técnico Avançado.
-- 💬 **Soft Skills:** Altamente comunicativo, facilidade para trabalhar em equipa e fazer novas amizades.
+- 💬 **Soft Skills:** Altamente comunicativo, facilidade para trabalhar em equipe e fazer novas amizades.
 
 ---
 
 ### 🛠️ Tecnologias & Ferramentas
 
-Aqui estão algumas das tecnologias com as quais trabalho e venho aprimorando no meu dia a dia:
+Minhas principais competências técnicas divididas por categorias:
 
-#### 🌐 Front-End
-![HTML5](https://shields.io)
-![CSS3](https://shields.io)
-![JavaScript](https://shields.io)
-
-#### ⚙️ Back-End & Frameworks
-![C#](https://shields.io)
-![Python](https://shields.io)
-![NodeJS](https://shields.io)
-
-#### 🗄️ Banco de Dados
-![SQL](https://shields.io)
+* **Front-End:** HTML5, CSS3, JavaScript
+* **Back-End & Frameworks:** C#, Python, Node.js
+* **Banco de Dados:** SQL
 
 ---
 
@@ -47,12 +38,8 @@ Aqui estão algumas das tecnologias com as quais trabalho e venho aprimorando no
 
 ### 🤝 Conecte-se Comigo
 
-Bora trocar uma ideia sobre projetos, tecnologia ou música? 
+Bora trocar uma ideia sobre projetos, tecnologia ou música?
 
-[![LinkedIn](https://shields.io)](https://linkedin.com)
-[![TikTok](https://shields.io)](https://www.tiktok.com/@hawise_007?is_from_webapp=1&sender_device=pc)
-[![GitHub](https://shields.io)](https://github.com/ArthurRabeloNS)
-
-<div align="center">
-  <img src="https://vercel.app" alt="GitHub Stats" />
-</div>
+* 💼 **LinkedIn:** [Acesse meu perfil profissional](https://linkedin.com)
+* 📱 **TikTok:** [Assista aos meus projetos aqui](https://tiktok.com)
+* 🐙 **GitHub:** [Meu perfil principal](https://github.com)
