@@ -1,15 +1,11 @@
 # Hi! My name is Arthur Rabelo, welcome!
 
-<p align="left">
-  🌐 <b>Languages / Idiomas:</b> 
-  <a href="./README.md"><b>Português 🇧🇷</b></a> | 
-  <a href="./README.en.md"><b>English 🇺🇸</b></a>
-</p>
+🌐 **Languages / Idiomas:** [Português 🇧🇷](./README.md) | [English 🇺🇸](./README.en.md)
 
 This is a space to share a little bit about myself, my journey in Computer Science, my interests, and the projects I develop in the tech field. Feel free to explore! 💻🚀
 
 <p align="center">
-  <img src="images/medieval.jpg" alt="Medieval Banner" width="250" />
+  <img src="images/lineG.gif" width="100%" height="40" />
 </p>
 
 ## 🚀 About Me
@@ -26,7 +22,9 @@ My goal is to build a solid career in the tech industry, develop useful and effi
 - 🧠 **Mindset:** Learn, experiment, solve problems, and constantly evolve.
 - 🤝 **Core Strengths:** Communication, adaptability, and smooth teamwork.
 
----
+<p align="center">
+  <img src="images/lineG.gif" width="100%" height="40" />
+</p>
 
 ## 🛠️ Tech Stack & Tools
 
@@ -46,19 +44,21 @@ Technologies I study, practice, or use to build projects:
 
 **Tools:** Git, GitHub, and VS Code.
 
----
+<p align="center">
+  <img src="images/lineG.gif" width="100%" height="40" />
+</p>
 
 ## 📌 Projects & Learning
 
-These are the main projects I have developed or am currently refining to document my journey as a developer:
+Here are the main projects I have developed or am currently refining to document my journey as a developer:
 
-* 🎮 **[SteveCube_v0.7.3](https://github.com)** - A sandbox game project developed in C# exploring 3D block building mechanics.
-* 🍳 **[SteveOvercooked2-](https://github.com)** - A chaotic cooking cooperative game project, bringing the character Steve into the Overcooked 2 kitchen!
-* 🛠️ **[SobeMIM_AboutMe](https://github.com)** - Repository dedicated to testing profile layouts and styling.
+* 🎮 **[SteveCube_v0.7.3](https://github.com/ArthurRabeloNS/Jogos_Games)** - A project focused on implementing Steve (Minecraft) into the Overcooked 2 game!
 
 > *Every single line of code is another opportunity to learn something new.*
 
----
+<p align="center">
+  <img src="images/lineG.gif" width="100%" height="40" />
+</p>
 
 ## ⚡ Beyond the Code
 
@@ -69,25 +69,33 @@ Technology is one of my passions, but definitely not the only one!
 - 🎵 **Music:** Because not everything in life needs to be compiled.
 - 😂 **Humor:** People say I'm good at almost everything... I just need to figure out the secret to success in romance. Meanwhile, I keep fixing bugs!
 
----
+<p align="center">
+  <img src="images/lineG.gif" width="100%" height="40" />
+</p>
 
 ## 🤝 Let's Connect
 
 I enjoy meeting new people, exchanging ideas, and talking about technology, projects, or music. If you share similar interests, let's connect!
 
 <p align="left">
-  <a href="https://linkedin.com" target="_blank">
+  <a href="https://www.linkedin.com/in/arthur-rabelo-95124a367/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com" target="_blank">
+  <a href="https://github.com/ArthurRabeloNS" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://tiktok.com" target="_blank">
+  <a href="https://www.tiktok.com/@hawise_007?is_from_webapp=1&sender_device=pc" target="_blank">
     <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
   </a>
 </p>
 
----
+<p align="center">
+  <img src="images/lineG.gif" width="100%" height="40" />
+</p>
+
+<p align="center">
+  <img src="images/medieval.jpg" alt="Medieval Knight" width="200" height="200" />
+</p>
 
 <p align="center">
   💡 <i>Studying today, building tomorrow.</i>
