@@ -1,4 +1,4 @@
-# Olá, eu sou o Arthur Rabelo! 👋
+# Olá, eu sou o Arthur Rabelo! 
 
 <p align="center">
   <!-- Sua imagem hospedada no próprio GitHub carregando perfeitamente -->
