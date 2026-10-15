@@ -18,11 +18,6 @@ Meu objetivo é construir uma carreira sólida na área de tecnologia, desenvolv
 - 🧠 **Mentalidade:** Aprender, experimentar, resolver problemas e evoluir constantemente.
 - 🤝 **Diferencial:** Comunicação, adaptabilidade e facilidade para trabalhar em equipe.
 
-
-<p align="center">
-  <img src="images/lineG.gif" width="100%" height="40" />
-</p>
-
 ## 🛠️ Tecnologias & Ferramentas
 
 Tecnologias com as quais estudo, pratico ou desenvolvo projetos:
