@@ -83,10 +83,10 @@ Gosto de conhecer pessoas, trocar ideias e conversar sobre tecnologia, projetos 
   <a href="https://linkedin.com" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com" target="_blank">
+  <a href="https://github.com/ArthurRabeloNS" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://tiktok.com" target="_blank">
+  <a href="https://www.tiktok.com/@hawise_007?is_from_webapp=1&sender_device=pc" target="_blank">
     <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
   </a>
 </p>
