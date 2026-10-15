@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou Arthur Rabelo
+# Olá! eu sou Arthur Rabelo e tudo aqui é sobre mim na base da carreira.
 
 <p align="center">
   <img src="images/medieval.jpg" alt="Banner Medieval" width="250" />
