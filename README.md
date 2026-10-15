@@ -4,6 +4,10 @@
 
 Este é um espaço para compartilhar um pouco sobre mim, minha jornada na Ciência da Computação, meus interesses e os projetos que desenvolvo na área de tecnologia. Fique à vontade para explorar! 💻🚀
 
+<p align="center">
+  <img src="images/lineG.gif" width="100%" height="40" />
+</p>
+
 ## 🚀 Sobre Mim
 
 Sou estudante de **Ciência da Computação na UniFECAF**, apaixonado por tecnologia, resolução de problemas e aprendizado contínuo.
@@ -18,6 +22,10 @@ Meu objetivo é construir uma carreira sólida na área de tecnologia, desenvolv
 - 🧠 **Mentalidade:** Aprender, experimentar, resolver problemas e evoluir constantemente.
 - 🤝 **Diferencial:** Comunicação, adaptabilidade e facilidade para trabalhar em equipe.
 
+<p align="center">
+  <img src="images/lineG.gif" width="100%" height="40" />
+</p>
+
 ## 🛠️ Tecnologias & Ferramentas
 
 Tecnologias com as quais estudo, pratico ou desenvolvo projetos:
@@ -25,12 +33,6 @@ Tecnologias com as quais estudo, pratico ou desenvolvo projetos:
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,cs,python,nodejs,mysql,git,github,vscode,androidstudio,kotlin" />
 </p>
-
-<p align="center">
-  <img src="images/lineG.gif" width="100%" height="40" />
-</p>
-
-
 
 **Desenvolvimento Web:** HTML5, CSS3 e JavaScript.
 
@@ -42,19 +44,23 @@ Tecnologias com as quais estudo, pratico ou desenvolvo projetos:
 
 **Ferramentas:** Git, GitHub e VS Code.
 
----
-
-## 📌 Projetos & Aprendizado
 <p align="center">
   <img src="images/lineG.gif" width="100%" height="40" />
 </p>
-Utilizo este espaço para compartilhar projetos, experimentar tecnologias e documentar minha evolução como desenvolvedor.
 
-Aqui você encontrará aplicações, experimentos e projetos desenvolvidos durante meus estudos, sempre buscando melhorar a qualidade do código e ampliar meus conhecimentos.
+## 📌 Projetos & Aprendizado
+
+Aqui estão os principais projetos que desenvolvi ou venho aprimorando para documentar minha evolução:
+
+* 🎮 **[SteveCube_v0.7.3](https://github.com)** - Projeto de jogo sandbox desenvolvido em C# explorando mecânicas de blocos tridimensionais.
+* 🍳 **[SteveOvercooked2-](https://github.com)** - Jogo cooperativo de culinária caótica trazendo o personagem Steve para a cozinha do Overcooked 2!
+* 🛠️ **[SobeMIM_AboutMe](https://github.com)** - Repositório dedicado a testes de estilização e organização de perfil.
 
 > *Cada linha de código é mais uma oportunidade de aprender algo novo.*
 
----
+<p align="center">
+  <img src="images/lineG.gif" width="100%" height="40" />
+</p>
 
 ## ⚡ Além do Código
 
@@ -65,7 +71,9 @@ A tecnologia é uma das minhas paixões, mas não a única!
 - 🎵 **Música:** porque nem tudo na vida precisa ser compilado.
 - 😂 **Humor:** dizem que sou bom em quase tudo... só falta descobrir o segredo do sucesso no amor. Enquanto isso, sigo corrigindo bugs!
 
----
+<p align="center">
+  <img src="images/lineG.gif" width="100%" height="40" />
+</p>
 
 ## 🤝 Vamos nos Conectar?
 
@@ -83,9 +91,12 @@ Gosto de conhecer pessoas, trocar ideias e conversar sobre tecnologia, projetos 
   </a>
 </p>
 
----
 <p align="center">
-  <img src="images/medieval.jpg" alt="Space" width="200" height="200" />
+  <img src="images/lineG.gif" width="100%" height="40" />
+</p>
+
+<p align="center">
+  <img src="images/medieval.jpg" alt="Medieval Knight" width="200" height="200" />
 </p>
 
 <p align="center">
