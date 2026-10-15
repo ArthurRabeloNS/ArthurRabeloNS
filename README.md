@@ -62,7 +62,7 @@ Aqui estão os principais projetos que desenvolvi ou venho aprimorando para docu
 
 ## ⚡ Além do Código
 
-A tecnologia é uma das minhas passions, mas não a única!
+A tecnologia é uma das minhas paixões, mas não a única!
 
 - 🧗 **Adrenalina:** gosto de esportes e atividades que desafiam meus limites.
 - 🍳 **Culinária:** na cozinha, também gosto de experimentar e acertar na receita.
