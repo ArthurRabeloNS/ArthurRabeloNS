@@ -19,7 +19,9 @@ Meu objetivo é construir uma carreira sólida na área de tecnologia, desenvolv
 - 🤝 **Diferencial:** Comunicação, adaptabilidade e facilidade para trabalhar em equipe.
 
 
----
+<p align="center">
+  <img src="images/lineG.gif" width="100%" height="40" />
+</p>
 
 ## 🛠️ Tecnologias & Ferramentas
 
@@ -28,6 +30,7 @@ Tecnologias com as quais estudo, pratico ou desenvolvo projetos:
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,cs,python,nodejs,mysql,git,github,vscode,androidstudio,kotlin" />
 </p>
+
 <p align="center">
   <img src="images/lineG.gif" width="100%" height="40" />
 </p>
