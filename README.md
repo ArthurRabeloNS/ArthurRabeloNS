@@ -4,12 +4,6 @@
 
 Este é um espaço para compartilhar um pouco sobre mim, minha jornada na Ciência da Computação, meus interesses e os projetos que desenvolvo na área de tecnologia. Fique à vontade para explorar! 💻🚀
 
-<p align="center">
-  <img src="images/spaceG.gif" alt="Space" width="600" height="150" />
-</p>
-
-
-
 ## 🚀 Sobre Mim
 
 Sou estudante de **Ciência da Computação na UniFECAF**, apaixonado por tecnologia, resolução de problemas e aprendizado contínuo.
@@ -33,6 +27,9 @@ Tecnologias com as quais estudo, pratico ou desenvolvo projetos:
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,cs,python,nodejs,mysql,git,github,vscode,androidstudio,kotlin" />
+</p>
+<p align="center">
+  <img src="images/spaceG.gif" alt="Space" width="900" height="150" />
 </p>
 
 **Desenvolvimento Web:** HTML5, CSS3 e JavaScript.
