@@ -52,7 +52,7 @@ Tecnologias com as quais estudo, pratico ou desenvolvo projetos:
 
 Aqui estão os principais projetos que desenvolvi ou venho aprimorando para documentar minha evolução:
 
-* 🎮 **[SteveCube_v0.7.3](https://github.com)** - Projeto de jogo sandbox desenvolvido em C# explorando mecânicas de blocos tridimensionais.
+* 🎮 **[SteveCube_v0.7.3](https://github.com/ArthurRabeloNS/Jogos_Games)** - Projeto de jogo sandbox desenvolvido em C# explorando mecânicas de blocos tridimensionais.
 * 🍳 **[SteveOvercooked2-](https://github.com)** - Jogo cooperativo de culinária caótica trazendo o personagem Steve para a cozinha do Overcooked 2!
 * 🛠️ **[SobeMIM_AboutMe](https://github.com)** - Repositório dedicado a testes de estilização e organização de perfil.
 
