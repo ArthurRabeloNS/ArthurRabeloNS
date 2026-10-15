@@ -1,0 +1,14 @@
+C:\Users\arthur\Downloads\SteveCube_Round2_hotbar_tnt_ajuste\bin\Release\net35\SteveCube.dll
+C:\Users\arthur\Downloads\SteveCube_Round2_hotbar_tnt_ajuste\bin\Release\net35\SteveCube.pdb
+C:\Users\arthur\Downloads\SteveCube_Round2_hotbar_tnt_ajuste\obj\Release\net35\SteveCube.csproj.AssemblyReference.cache
+C:\Users\arthur\Downloads\SteveCube_Round2_hotbar_tnt_ajuste\obj\Release\net35\SteveCube.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arthur\Downloads\SteveCube_Round2_hotbar_tnt_ajuste\obj\Release\net35\SteveCube.csproj.CoreCompileInputs.cache
+C:\Users\arthur\Downloads\SteveCube_Round2_hotbar_tnt_ajuste\obj\Release\net35\SteveCube.dll
+C:\Users\arthur\Downloads\SteveCube_Round2_hotbar_tnt_ajuste\obj\Release\net35\SteveCube.pdb
+C:\Users\arthur\Downloads\SteveCube_v0.7.3\bin\Release\net35\SteveCube.dll
+C:\Users\arthur\Downloads\SteveCube_v0.7.3\bin\Release\net35\SteveCube.pdb
+C:\Users\arthur\Downloads\SteveCube_v0.7.3\obj\Release\net35\SteveCube.csproj.AssemblyReference.cache
+C:\Users\arthur\Downloads\SteveCube_v0.7.3\obj\Release\net35\SteveCube.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arthur\Downloads\SteveCube_v0.7.3\obj\Release\net35\SteveCube.csproj.CoreCompileInputs.cache
+C:\Users\arthur\Downloads\SteveCube_v0.7.3\obj\Release\net35\SteveCube.dll
+C:\Users\arthur\Downloads\SteveCube_v0.7.3\obj\Release\net35\SteveCube.pdb
