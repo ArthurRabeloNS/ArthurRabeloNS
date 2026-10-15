@@ -80,7 +80,7 @@ A tecnologia é uma das minhas paixões, mas não a única!
 Gosto de conhecer pessoas, trocar ideias e conversar sobre tecnologia, projetos e música. Se você tem interesses parecidos, vamos nos conectar!
 
 <p align="left">
-  <a href="[https://www.linkedin.com/in/arthur-rabelo-95124a367/" target="_blank">
+  <a href="https://www.linkedin.com/in/arthur-rabelo-95124a367/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/ArthurRabeloNS" target="_blank">
