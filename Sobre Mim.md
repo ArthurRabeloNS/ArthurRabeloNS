@@ -5,7 +5,6 @@ Este é um espaço para compartilhar um pouco sobre mim, minha jornada na Ciênc
 <p align="center">
   <img src="images/medieval.jpg" alt="Banner Medieval" width="250" />
 </p>
----
 
 ## 🚀 Sobre Mim
 
