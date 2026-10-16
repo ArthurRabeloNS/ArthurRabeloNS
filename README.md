@@ -1,101 +1,111 @@
-# Olá! Meu nome é Arthur Rabelo, seja bem-vindo!
-
-🌐 **Idiomas / Languages:** [Português 🇧🇷](./README.md) | [English 🇺🇸](./README.en.md)
-
-Este é um espaço para compartilhar um pouco sobre mim, minha jornada na Ciência da Computação, meus interesses e os projetos que desenvolvo na área de tecnologia. Fique à vontade para explorar! 💻🚀
+<h1 align="center">Olá, eu sou o Arthur Rabelo 👋</h1>
 
 <p align="center">
-  <img src="images/lineG.gif" width="100%" height="40" />
+  <b>Estudante de Ciência da Computação • Desenvolvimento de Software • Aprendizado contínuo</b>
 </p>
 
-## 🚀 Sobre Mim
-
-Sou estudante de **Ciência da Computação na UniFECAF**, apaixonado por tecnologia, resolução de problemas e aprendizado contínuo.
-
-Tenho facilidade para me adaptar a novos ambientes, trabalhar em equipe e encarar desafios. Acredito que cada projeto é uma oportunidade de transformar conhecimento em prática, desenvolver novas habilidades e evoluir como profissional.
-
-Meu objetivo é construir uma carreira sólida na área de tecnologia, desenvolver soluções úteis e eficientes e contribuir para projetos que gerem impacto real.
-
-- 🎓 **Formação:** Ciência da Computação — UniFECAF.
-- 💻 **Foco atual:** Desenvolvimento de software e aprimoramento das minhas habilidades técnicas.
-- 🔎 **Interesses:** Desenvolvimento Full-Stack, Cybersecurity, Banco de Dados e Suporte Técnico.
-- 🧠 **Mentalidade:** Aprender, experimentar, resolver problemas e evoluir constantemente.
-- 🤝 **Diferencial:** Comunicação, adaptabilidade e facilidade para trabalhar em equipe.
+<p align="center">
+  <a href="https://www.linkedin.com/in/arthur-rabelo-95124a367/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/ArthurRabeloNS" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.tiktok.com/@hawise_007?is_from_webapp=1&sender_device=pc" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
+  </a>
+</p>
 
 <p align="center">
-  <img src="images/lineG.gif" width="100%" height="40" />
+  🌐 <b>Idiomas / Languages:</b> <a href="./README.md">Português 🇧🇷</a> | <a href="./README.en.md">English 🇺🇸</a>
+</p>
+
+<p align="center">
+  <img src="images/lineG.gif" width="100%" height="40" alt="" />
+</p>
+
+## 🚀 Sobre mim
+
+Sou estudante de **Ciência da Computação na UniFECAF**, apaixonado por tecnologia, resolução de problemas e aprendizado contínuo. Gosto de transformar o que estudo em projetos reais, e este perfil é onde documento essa evolução.
+
+Me adapto rápido a novos ambientes, trabalho bem em equipe e encaro desafios de frente. Meu objetivo é construir uma carreira sólida em tecnologia, criando soluções úteis e eficientes.
+
+| | |
+|---|---|
+| 🎓 **Formação** | Ciência da Computação, UniFECAF |
+| 💻 **Foco atual** | Desenvolvimento de software e aprimoramento técnico |
+| 🔎 **Interesses** | Full-Stack, Cybersecurity, Banco de Dados e Suporte Técnico |
+| 🧠 **Mentalidade** | Aprender, experimentar, resolver problemas e evoluir |
+| 🤝 **Diferencial** | Comunicação, adaptabilidade e trabalho em equipe |
+
+<p align="center">
+  <img src="images/lineG.gif" width="100%" height="40" alt="" />
 </p>
 
 ## 🛠️ Tecnologias & Ferramentas
 
-Tecnologias com as quais estudo, pratico ou desenvolvo projetos:
-
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,cs,python,nodejs,mysql,git,github,vscode,androidstudio,kotlin" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,cs,python,nodejs,mysql,kotlin,androidstudio,git,github,vscode" alt="Tecnologias" />
 </p>
 
-**Desenvolvimento Web:** HTML5, CSS3 e JavaScript.
-
-**Back-End & Programação:** C#, Python e Node.js.
-
-**Banco de Dados:** SQL.
-
-**Desenvolvimento Mobile:** Kotlin e Android Studio.
-
-**Ferramentas:** Git, GitHub e VS Code.
+| Área | Tecnologias |
+|---|---|
+| 🌐 **Web** | HTML5, CSS3, JavaScript |
+| ⚙️ **Back-End & Programação** | C#, Python, Node.js |
+| 🗄️ **Banco de Dados** | SQL (MySQL) |
+| 📱 **Mobile** | Kotlin, Android Studio |
+| 🧰 **Ferramentas** | Git, GitHub, VS Code |
 
 <p align="center">
-  <img src="images/lineG.gif" width="100%" height="40" />
+  <img src="images/lineG.gif" width="100%" height="40" alt="" />
 </p>
 
-## 📌 Projetos & Aprendizado
+## 📌 Projetos em destaque
 
-Aqui estão os principais projetos que desenvolvi ou venho aprimorando para documentar minha evolução:
+### 🎮 [SteveCube v0.7.3](https://github.com/ArthurRabeloNS/Jogos_Games)
+Mod que adiciona o **Steve, do Minecraft, como chef jogável no Overcooked! 2**. Envolveu estudar o código do jogo (descompilado com dnSpy) e modificá-lo em **C#**.
 
-* 🎮 **[SteveCube_v0.7.3](https://github.com/ArthurRabeloNS/Jogos_Games)** - Projeto de implementar o Steve (Minecraft) no jogo Overcooked2!
-* 📸 **[projetoDeCamera](https://github.com/ArthurRabeloNS/testando/tree/main)** - Projeto de camera completa interativa.
+**Tecnologias:** C# • dnSpy
 
-> *Cada linha de código é mais uma oportunidade de aprender algo novo.*
+### 📸 [projetoDeCamera](https://github.com/ArthurRabeloNS/testando/tree/main)
+Projeto de câmera completa e interativa.
+
+> 💬 *Cada linha de código é mais uma oportunidade de aprender algo novo.*
 
 <p align="center">
-  <img src="images/lineG.gif" width="100%" height="40" />
+  <img src="images/lineG.gif" width="100%" height="40" alt="" />
 </p>
 
-## ⚡ Além do Código
+## 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ArthurRabeloNS&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurRabeloNS&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
+</p>
+
+<p align="center">
+  <img src="images/lineG.gif" width="100%" height="40" alt="" />
+</p>
+
+## ⚡ Além do código
 
 A tecnologia é uma das minhas paixões, mas não a única!
 
-- 🧗 **Adrenalina:** gosto de esportes e atividades que desafiam meus limites.
-- 🍳 **Culinária:** na cozinha, também gosto de experimentar e acertar na receita.
+- 🧗 **Adrenalina:** esportes e atividades que desafiam meus limites.
+- 🍳 **Culinária:** na cozinha também gosto de experimentar (e acertar a receita).
 - 🎵 **Música:** porque nem tudo na vida precisa ser compilado.
-- 😂 **Humor:** dizem que sou bom em quase tudo... só falta descobrir o segredo do sucesso no amor. Enquanto isso, sigo corrigindo bugs!
+- 😂 **Humor:** dizem que sou bom em quase tudo, só falta descobrir o segredo do sucesso no amor. Enquanto isso, sigo corrigindo bugs!
 
 <p align="center">
-  <img src="images/lineG.gif" width="100%" height="40" />
+  <img src="images/lineG.gif" width="100%" height="40" alt="" />
 </p>
 
-## 🤝 Vamos nos Conectar?
+## 🤝 Vamos nos conectar?
 
-Gosto de conhecer pessoas, trocar ideias e conversar sobre tecnologia, projetos e música. Se você tem interesses parecidos, vamos nos conectar!
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/arthur-rabelo-95124a367/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/ArthurRabeloNS" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.tiktok.com/@hawise_007?is_from_webapp=1&sender_device=pc" target="_blank">
-    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
-  </a>
-</p>
+Gosto de conhecer pessoas e trocar ideias sobre tecnologia, projetos e música. Se temos interesses parecidos, me chama no [LinkedIn](https://www.linkedin.com/in/arthur-rabelo-95124a367/)!
 
 <p align="center">
-  <img src="images/lineG.gif" width="100%" height="40" />
-</p>
-
-<p align="center">
-  <img src="images/medieval.jpg" alt="Medieval Knight" width="200" height="200" />
+  <img src="images/medieval.jpg" alt="Cavaleiro medieval" width="200" height="200" />
 </p>
 
 <p align="center">
