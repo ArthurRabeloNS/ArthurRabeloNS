@@ -53,6 +53,7 @@ Tecnologias com as quais estudo, pratico ou desenvolvo projetos:
 Aqui estão os principais projetos que desenvolvi ou venho aprimorando para documentar minha evolução:
 
 * 🎮 **[SteveCube_v0.7.3](https://github.com/ArthurRabeloNS/Jogos_Games)** - Projeto de implementar o Steve (Minecraft) no jogo Overcooked2!
+* 📸 **[SteveCube_v0.7.3](https://github.com/ArthurRabeloNS/testando/tree/main)** - Projeto de camera completa interativa.
 
 > *Cada linha de código é mais uma oportunidade de aprender algo novo.*
 
