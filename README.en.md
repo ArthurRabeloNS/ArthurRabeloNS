@@ -5,14 +5,14 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com" target="_blank">
-    <img src="https://shields.io" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/arthur-rabelo-95124a367/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com" target="_blank">
-    <img src="https://shields.io" alt="GitHub" />
+  <a href="https://github.com/ArthurRabeloNS" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://tiktok.com" target="_blank">
-    <img src="https://shields.io" alt="TikTok" />
+  <a href="https://www.tiktok.com/@hawise_007?is_from_webapp=1&sender_device=pc" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
   </a>
 </p>
 
@@ -45,7 +45,7 @@ I have a fast learning curve, an analytical mindset, and strong communication sk
 ## 🛠️ Technologies & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev" alt="Technologies" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,cs,python,nodejs,mysql,kotlin,androidstudio,git,github,vscode" alt="Technologies" />
 </p>
 
 | Field | Technologies & Concepts |
@@ -63,12 +63,12 @@ I have a fast learning curve, an analytical mindset, and strong communication sk
 
 ## 📌 Featured Projects
 
-### 🎮 [SteveCube v0.7.3](https://github.com/Jogos_Games)
+### 🎮 [SteveCube v0.7.3](https://github.com/ArthurRabeloNS/Jogos_Games)
 A game modification (Mod) that injects **Steve (Minecraft) as a playable chef inside Overcooked! 2**. This project involved **Reverse Engineering** techniques to decompile, analyze, and extend the game's original C# source code.
 
 * **Technologies:** C#, dnSpy, Unity Environment.
 
-### 📸 [Interactive - Camera Project](https://github.com/Interativo)
+### 📸 [Interactive - Camera Project](https://github.com)
 A **Computer Vision** application focused on real-time interactivity. I developed a system capable of facial recognition and gesture tracking, allowing users to interact and digitally paint using only hand movements.
 
 * **Technologies:** Python, OpenCV / Computer Vision.
@@ -82,8 +82,8 @@ A **Computer Vision** application focused on real-time interactivity. I develope
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://vercel.app" alt="GitHub Stats" />
-  <img height="170" src="https://vercel.app" alt="Top Languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ArthurRabeloNS&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurRabeloNS&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
@@ -105,7 +105,7 @@ Technology connects with everything I do, but I also share my time with other pa
 
 ## 🤝 Let's connect!
 
-Whether it is to talk about software architecture, security tools, open-source projects, or just to chat about music, feel free to add me on [LinkedIn](https://linkedin.com)!
+Whether it is to talk about software architecture, security tools, open-source projects, or just to chat about music, feel free to add me on [LinkedIn](https://www.linkedin.com/in/arthur-rabelo-95124a367/)!
 
 <p align="center">
   <img src="images/medieval.jpg" alt="Medieval Knight" width="200" height="200" />
