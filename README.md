@@ -67,8 +67,8 @@ Mod que adiciona o **Steve, do Minecraft, como chef jogável no Overcooked! 2**.
 
 **Tecnologias:** C# • dnSpy
 
-### 📸 [projetoDeCamera](https://github.com/ArthurRabeloNS/testando/tree/main)
-Projeto de câmera completa e interativa.
+### 📸 [Interativo - projetoDeCamera](https://github.com)
+Aplicação de **Visão Computacional** com foco em interatividade em tempo real. Desenvolvi um sistema capaz de realizar reconhecimento facial e rastreamento gestual, permitindo que o usuário interaja e realize ações de pintura digital usando apenas os movimentos das mãos.
 
 > 💬 *Cada linha de código é mais uma oportunidade de aprender algo novo.*
 
