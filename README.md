@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o Arthur Rabelo 👋</h1>
+<h1 align="center">Olá, meu nome é Arthur Rabelo</h1>
 
 <p align="center">
   <b>Estudante de Ciência da Computação • Desenvolvedor de Software • Entusiasta de Segurança da Informação</b>
