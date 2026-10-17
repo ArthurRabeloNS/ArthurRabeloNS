@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o Arthur Rabelo 👋</h1>
 
 <p align="center">
-  <b>Estudante de Ciência da Computação • Desenvolvimento de Software • Aprendizado contínuo</b>
+  <b>Estudante de Ciência da Computação • Desenvolvedor de Software • Entusiasta de Segurança da Informação</b>
 </p>
 
 <p align="center">
@@ -26,17 +26,17 @@
 
 ## 🚀 Sobre mim
 
-Sou estudante de **Ciência da Computação na UniFECAF**, apaixonado por tecnologia, resolução de problemas e aprendizado contínuo. Gosto de transformar o que estudo em projetos reais, e este perfil é onde documento essa evolução.
+Sou estudante de **Ciência da Computação na UniFECAF**, fascinado por criar soluções inteligentes, resolver problemas complexos e explorar o universo da segurança digital. Gosto de tirar a teoria do papel através de projetos práticos e desafiadores.
 
-Me adapto rápido a novos ambientes, trabalho bem em equipe e encaro desafios de frente. Meu objetivo é construir uma carreira sólida em tecnologia, criando soluções úteis e eficientes.
+Possuo rápida curva de aprendizado, mentalidade analítica e ótima comunicação para trabalhar em equipes multidisciplinares.
 
 | | |
 |---|---|
-| 🎓 **Formação** | Ciência da Computação, UniFECAF |
-| 💻 **Foco atual** | Desenvolvimento de software e aprimoramento técnico |
-| 🔎 **Interesses** | Full-Stack, Cybersecurity, Banco de Dados e Suporte Técnico |
-| 🧠 **Mentalidade** | Aprender, experimentar, resolver problemas e evoluir |
-| 🤝 **Diferencial** | Comunicação, adaptabilidade e trabalho em equipe |
+| 🎓 **Formação** | Bacharelado em Ciência da Computação, UniFECAF |
+| 💻 **Foco Atual** | Engenharia de Software, Arquitetura de Sistemas e DevSecOps |
+| 🔎 **Interesses** | Desenvolvimento Full-Stack, Cybersecurity, Banco de Dados e Infraestrutura |
+| 🧠 **Mentalidade** | Engenharia reversa, automação de processos e melhoria contínua |
+| 🤝 **Soft Skills** | Comunicação assertiva, adaptabilidade e resolução de problemas sob pressão |
 
 <p align="center">
   <img src="images/lineG.gif" width="100%" height="40" alt="" />
@@ -48,27 +48,30 @@ Me adapto rápido a novos ambientes, trabalho bem em equipe e encaro desafios de
   <img src="https://skillicons.dev/icons?i=html,css,js,cs,python,nodejs,mysql,kotlin,androidstudio,git,github,vscode" alt="Tecnologias" />
 </p>
 
-| Área | Tecnologias |
+| Área | Tecnologias e Conceitos |
 |---|---|
-| 🌐 **Web** | HTML5, CSS3, JavaScript |
-| ⚙️ **Back-End & Programação** | C#, Python, Node.js |
-| 🗄️ **Banco de Dados** | SQL (MySQL) |
+| 🌐 **Web Frontend** | HTML5, CSS3, JavaScript (ES6+) |
+| ⚙️ **Back-End & Scripting** | C#, Python, Node.js |
+| 🗄️ **Banco de Dados** | SQL (MySQL), Modelagem Relacional |
 | 📱 **Mobile** | Kotlin, Android Studio |
-| 🧰 **Ferramentas** | Git, GitHub, VS Code |
+| 🛡️ **Cybersecurity** | Noções de criptografia, OWASP Top 10, Engenharia Reversa (dnSpy) |
+| 🧰 **Ferramentas & DevOps** | Git, GitHub, Git Flow, VS Code |
 
 <p align="center">
   <img src="images/lineG.gif" width="100%" height="40" alt="" />
 </p>
 
-## 📌 Projetos em destaque
+## 📌 Projetos em Destaque
 
 ### 🎮 [SteveCube v0.7.3](https://github.com/ArthurRabeloNS/Jogos_Games)
-Mod que adiciona o **Steve, do Minecraft, como chef jogável no Overcooked! 2**. Envolveu estudar o código do jogo (descompilado com dnSpy) e modificá-lo em **C#**.
+Modificação (Mod) que injeta o personagem **Steve (Minecraft) como um chef jogável dentro do Overcooked! 2**. O projeto envolveu técnicas de **Engenharia Reversa** para descompilar, analisar e estender o código original do jogo em C#.
 
-**Tecnologias:** C# • dnSpy
+* **Tecnologias:** C#, dnSpy, Unity Environment.
 
 ### 📸 [Interativo - projetoDeCamera](https://github.com)
 Aplicação de **Visão Computacional** com foco em interatividade em tempo real. Desenvolvi um sistema capaz de realizar reconhecimento facial e rastreamento gestual, permitindo que o usuário interaja e realize ações de pintura digital usando apenas os movimentos das mãos.
+
+* **Tecnologias:** Python, OpenCV / Visão Computacional.
 
 > 💬 *Cada linha de código é mais uma oportunidade de aprender algo novo.*
 
@@ -89,12 +92,12 @@ Aplicação de **Visão Computacional** com foco em interatividade em tempo real
 
 ## ⚡ Além do código
 
-A tecnologia é uma das minhas paixões, mas não a única!
+A tecnologia se conecta com tudo o que faço, mas também divido meu tempo com outras paixões:
 
-- 🧗 **Adrenalina:** esportes e atividades que desafiam meus limites.
-- 🍳 **Culinária:** na cozinha também gosto de experimentar (e acertar a receita).
-- 🎵 **Música:** porque nem tudo na vida precisa ser compilado.
-- 😂 **Humor:** dizem que sou bom em quase tudo, só falta descobrir o segredo do sucesso no amor. Enquanto isso, sigo corrigindo bugs!
+- 🧗 **Adrenalina:** Prática de esportes e desafios que testam meus limites físicos e mentais.
+- 🍳 **Culinária:** Onde encaro a cozinha como um laboratório de experimentos (adicionando temperos sem quebrar o ecossistema).
+- 🎵 **Música:** Essencial para focar, relaxar e desconectar do terminal.
+- 😂 **Humor:** Dizem por aí que sou bom em quase tudo... só falta descobrir o segredo do sucesso no amor. Enquanto o patch dessa correção não sai, sigo eliminando bugs no código!
 
 <p align="center">
   <img src="images/lineG.gif" width="100%" height="40" alt="" />
@@ -102,7 +105,7 @@ A tecnologia é uma das minhas paixões, mas não a única!
 
 ## 🤝 Vamos nos conectar?
 
-Gosto de conhecer pessoas e trocar ideias sobre tecnologia, projetos e música. Se temos interesses parecidos, me chama no [LinkedIn](https://www.linkedin.com/in/arthur-rabelo-95124a367/)!
+Seja para trocar ideias sobre arquitetura de software, ferramentas de segurança, projetos open-source ou apenas bater um papo sobre música, sinta-se à vontade para me adicionar no [LinkedIn](https://www.linkedin.com/in/arthur-rabelo-95124a367/)!
 
 <p align="center">
   <img src="images/medieval.jpg" alt="Cavaleiro medieval" width="200" height="200" />
