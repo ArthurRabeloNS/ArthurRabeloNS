@@ -1,97 +1,111 @@
-# Hi! My name is Arthur Rabelo, welcome!
-
-🌐 **Languages / Idiomas:** [Português 🇧🇷](./README.md) | [English 🇺🇸](./README.en.md)
-
-This is a space to share a little bit about myself, my journey in Computer Science, my interests, and the projects I develop in the tech field. Feel free to explore! 💻🚀
+<h1 align="center">Hi there, I'm Arthur Rabelo 👋</h1>
 
 <p align="center">
-  <img src="images/lineG.gif" width="100%" height="40" />
+  <b>Computer Science Student • Software Developer • Information Security Enthusiast</b>
 </p>
-
-## 🚀 About Me
-
-I am a **Computer Science student at UniFECAF**, passionate about technology, problem-solving, and continuous learning.
-
-I easily adapt to new environments, excel in teamwork, and love taking on challenges. I believe that every project is an opportunity to turn knowledge into practice, build new skills, and grow as a professional.
-
-My goal is to build a solid career in the tech industry, develop useful and efficient solutions, and contribute to projects that generate real-world impact.
-
-- 🎓 **Education:** Computer Science — UniFECAF.
-- 💻 **Current Focus:** Software development and sharpening my technical skills.
-- 🔎 **Interests:** Full-Stack Development, Cybersecurity, Databases, and Advanced Technical Support.
-- 🧠 **Mindset:** Learn, experiment, solve problems, and constantly evolve.
-- 🤝 **Core Strengths:** Communication, adaptability, and smooth teamwork.
 
 <p align="center">
-  <img src="images/lineG.gif" width="100%" height="40" />
+  <a href="https://linkedin.com" target="_blank">
+    <img src="https://shields.io" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com" target="_blank">
+    <img src="https://shields.io" alt="GitHub" />
+  </a>
+  <a href="https://tiktok.com" target="_blank">
+    <img src="https://shields.io" alt="TikTok" />
+  </a>
 </p>
 
-## 🛠️ Tech Stack & Tools
+<p align="center">
+  🌐 <b>Idiomas / Languages:</b> <a href="./README.md">Português 🇧🇷</a> | <a href="./README.en.md">English 🇺🇸</a>
+</p>
 
-Technologies I study, practice, or use to build projects:
+<p align="center">
+  <img src="images/lineG.gif" width="100%" height="40" alt="" />
+</p>
+
+## 🚀 About me
+
+I am a **Computer Science student at UniFECAF**, fascinated by building smart solutions, solving complex problems, and exploring the digital security universe. I enjoy turning theory into practice through challenging, real-world projects.
+
+I have a fast learning curve, an analytical mindset, and strong communication skills to collaborate effectively within multidisciplinary teams.
+
+| | |
+|---|---|
+| 🎓 **Education** | Bachelor's Degree in Computer Science, UniFECAF |
+| 💻 **Current Focus** | Software Engineering, Systems Architecture, and DevSecOps |
+| 🔎 **Interests** | Full-Stack Development, Cybersecurity, Databases, and Infrastructure |
+| 🧠 **Mindset** | Reverse engineering, process automation, and continuous improvement |
+| 🤝 **Soft Skills** | Assertive communication, adaptability, and problem-solving under pressure |
+
+<p align="center">
+  <img src="images/lineG.gif" width="100%" height="40" alt="" />
+</p>
+
+## 🛠️ Technologies & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,cs,python,nodejs,mysql,git,github,vscode,androidstudio,kotlin" />
+  <img src="https://skillicons.dev" alt="Technologies" />
 </p>
 
-**Web Development:** HTML5, CSS3, and JavaScript.
-
-**Back-End & Programming:** C#, Python, and Node.js.
-
-**Database:** SQL.
-
-**Mobile Development:** Kotlin and Android Studio.
-
-**Tools:** Git, GitHub, and VS Code.
+| Field | Technologies & Concepts |
+|---|---|
+| 🌐 **Web Frontend** | HTML5, CSS3, JavaScript (ES6+) |
+| ⚙️ **Back-End & Scripting** | C#, Python, Node.js |
+| 🗄️ **Databases** | SQL (MySQL), Relational Modeling |
+| 📱 **Mobile** | Kotlin, Android Studio |
+| 🛡️ **Cybersecurity** | Cryptography basics, OWASP Top 10, Reverse Engineering (dnSpy) |
+| 🧰 **Tools & DevOps** | Git, GitHub, Git Flow, VS Code |
 
 <p align="center">
-  <img src="images/lineG.gif" width="100%" height="40" />
+  <img src="images/lineG.gif" width="100%" height="40" alt="" />
 </p>
 
-## 📌 Projects & Learning
+## 📌 Featured Projects
 
-Here are the main projects I have developed or am currently refining to document my journey as a developer:
+### 🎮 [SteveCube v0.7.3](https://github.com/Jogos_Games)
+A game modification (Mod) that injects **Steve (Minecraft) as a playable chef inside Overcooked! 2**. This project involved **Reverse Engineering** techniques to decompile, analyze, and extend the game's original C# source code.
 
-* 🎮 **[SteveCube_v0.7.3](https://github.com/ArthurRabeloNS/Jogos_Games)** - A project focused on implementing Steve (Minecraft) into the Overcooked 2 game!
+* **Technologies:** C#, dnSpy, Unity Environment.
 
-> *Every single line of code is another opportunity to learn something new.*
+### 📸 [Interactive - Camera Project](https://github.com/Interativo)
+A **Computer Vision** application focused on real-time interactivity. I developed a system capable of facial recognition and gesture tracking, allowing users to interact and digitally paint using only hand movements.
+
+* **Technologies:** Python, OpenCV / Computer Vision.
+
+> 💬 *Every line of code is another opportunity to learn something new.*
 
 <p align="center">
-  <img src="images/lineG.gif" width="100%" height="40" />
+  <img src="images/lineG.gif" width="100%" height="40" alt="" />
 </p>
 
-## ⚡ Beyond the Code
-
-Technology is one of my passions, but definitely not the only one!
-
-- 🧗 **Adrenaline:** I love sports and activities that push my boundaries.
-- 🍳 **Cooking:** In the kitchen, I also enjoy experimenting and nailing down great recipes.
-- 🎵 **Music:** Because not everything in life needs to be compiled.
-- 😂 **Humor:** People say I'm good at almost everything... I just need to figure out the secret to success in romance. Meanwhile, I keep fixing bugs!
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="images/lineG.gif" width="100%" height="40" />
-</p>
-
-## 🤝 Let's Connect
-
-I enjoy meeting new people, exchanging ideas, and talking about technology, projects, or music. If you share similar interests, let's connect!
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/arthur-rabelo-95124a367/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/ArthurRabeloNS" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.tiktok.com/@hawise_007?is_from_webapp=1&sender_device=pc" target="_blank">
-    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
-  </a>
+  <img height="170" src="https://vercel.app" alt="GitHub Stats" />
+  <img height="170" src="https://vercel.app" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="images/lineG.gif" width="100%" height="40" />
+  <img src="images/lineG.gif" width="100%" height="40" alt="" />
 </p>
+
+## ⚡ Beyond coding
+
+Technology connects with everything I do, but I also share my time with other passions:
+
+- 🧗 **Adrenaline:** Sports and outdoor activities that challenge my physical and mental limits.
+- 🍳 **Cooking:** Where I approach the kitchen as an experimental lab (adding spices without breaking the ecosystem).
+- 🎵 **Music:** Essential for focus, relaxation, and disconnecting from the terminal.
+- 😂 **Humor:** Word on the street is that I'm good at almost everything... except figuring out the secret to romance. While the hotfix for that isn't deployed yet, I'll keep smashing bugs in the code!
+
+<p align="center">
+  <img src="images/lineG.gif" width="100%" height="40" alt="" />
+</p>
+
+## 🤝 Let's connect!
+
+Whether it is to talk about software architecture, security tools, open-source projects, or just to chat about music, feel free to add me on [LinkedIn](https://linkedin.com)!
 
 <p align="center">
   <img src="images/medieval.jpg" alt="Medieval Knight" width="200" height="200" />
