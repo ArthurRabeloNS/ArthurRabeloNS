@@ -68,7 +68,7 @@ Modificação (Mod) que injeta o personagem **Steve (Minecraft) como um chef jog
 
 * **Tecnologias:** C#, dnSpy, Unity Environment.
 
-### 📸 [Interativo - projetoDeCamera](https://github.com)
+### 📸 [Interativo - projetoDeCamera](https://github.com/ArthurRabeloNS/Interativo)
 Aplicação de **Visão Computacional** com foco em interatividade em tempo real. Desenvolvi um sistema capaz de realizar reconhecimento facial e rastreamento gestual, permitindo que o usuário interaja e realize ações de pintura digital usando apenas os movimentos das mãos.
 
 * **Tecnologias:** Python, OpenCV / Visão Computacional.
