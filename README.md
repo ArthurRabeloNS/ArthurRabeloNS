@@ -63,7 +63,7 @@ Possuo rápida curva de aprendizado, mentalidade analítica e ótima comunicaç�
 
 ## 📌 Projetos em Destaque
 
-### 🎮 [SteveCube v0.7.3](https://github.com/ArthurRabeloNS/Jogos_Games)
+### 🎮 [Jogos - SteveCube v0.7.3](https://github.com/ArthurRabeloNS/Jogos_Games)
 Modificação (Mod) que injeta o personagem **Steve (Minecraft) como um chef jogável dentro do Overcooked! 2**. O projeto envolveu técnicas de **Engenharia Reversa** para descompilar, analisar e estender o código original do jogo em C#.
 
 * **Tecnologias:** C#, dnSpy, Unity Environment.
